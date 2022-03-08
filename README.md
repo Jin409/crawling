@@ -8,5 +8,5 @@
 |headless chrome|[링크](https://github.com/Jin409/crawling/blob/master/4th.py)|
 |동적 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/5th.py)|
 |셀레니움으로 로그인하기|[링크](https://github.com/Jin409/crawling/blob/master/6th.py)|
-|셀레니움으로 로그인 한 이후 로그아웃하기|[링크](https://github.com/Jin409/crawling/blob/master/6th.py)|
-|xpath 활용하기|[링크](https://github.com/Jin409/crawling/blob/master/6th.py)|
+|셀레니움으로 로그인 한 이후 로그아웃하기|[링크](https://github.com/Jin409/crawling/blob/master/7th.py)|
+|xpath 활용하기|[링크](https://github.com/Jin409/crawling/blob/master/8th.py)|
