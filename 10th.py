@@ -13,7 +13,7 @@ for i in range(6):
     
     driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 
-    elems = driver.find_elements_by_css_selector("div.card-body > h4")
+    elems = driver.find_elements_by_css_selector("section.recent-posts div.card-body > h4")
     
     for elem in elems:
         print(elem.text)
