@@ -11,3 +11,4 @@
 |셀레니움으로 로그인 한 이후 로그아웃하기|[링크](https://github.com/Jin409/crawling/blob/master/7th.py)|
 |xpath 활용하기|[링크](https://github.com/Jin409/crawling/blob/master/8th.py)|
 |xpath로 로그인 시나리오 해보기|[링크](https://github.com/Jin409/crawling/blob/master/8th.py)|
+|셀레니움으로 멀티페이지 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/8th.py)|
