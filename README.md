@@ -15,8 +15,8 @@
 |셀레니움으로 멀티페이지 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/10th.py)|
 |셀레니움으로 이미지 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/11th.py)|
 
-##### scrapy
-|내용|링크|
-|:-------------:|:-----:|
-
+##### ecommerce [scrapy 프로젝트명](https://github.com/Jin409/crawling/blob/master/11th.py)
+|내용|링크|메모|
+|:-------------:|:-----:|:-----:|
+|scrapy 시작하기 |[링크](https://github.com/Jin409/crawling/blob/master/11th.py)| scrapy startproject <프로젝트명> / scrapy genspider <크롤러 이름> <크롤링할 사이트 주소> / scrapy crawl <크롤러 이름>
 
