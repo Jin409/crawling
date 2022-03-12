@@ -14,6 +14,8 @@
 |xpath로 로그인 시나리오 해보기|[링크](https://github.com/Jin409/crawling/blob/master/9th.py)|
 |셀레니움으로 멀티페이지 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/10th.py)|
 |셀레니움으로 이미지 크롤링|[링크](https://github.com/Jin409/crawling/blob/master/11th.py)|
+|셀레니움으로 네이버 웹툰 크롤링|[링크](https://github.com/Jin409/crawling/commit/d31e1b87dc120b63fdf95089a49b4bb00d68d2fc
+)
 
 ##### ecommerce [scrapy 프로젝트명](https://github.com/Jin409/crawling/tree/master/ecommerce)
 |내용|링크|메모|
